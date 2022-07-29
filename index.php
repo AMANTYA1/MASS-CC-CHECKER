@@ -25,7 +25,7 @@
 <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
-</head>
+
 
 <body>
 <p class="head">Credit Card Checker</p>
